@@ -1,0 +1,5 @@
+.contact-card.active {
+  background: rgba(92, 161, 255, 0.18);
+  border-color: rgba(170, 220, 255, 0.36);
+  box-shadow: 0 4px 12px rgba(77, 163, 255, 0.15);
+}
